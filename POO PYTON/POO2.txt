@@ -1,0 +1,41 @@
+                        CONCEPTOS O TERMINOS DE LA PROGAMACIÓN ORIENTADA A OBJETOS
+
+¿Qué es un clase?
+Un modelo donde se redactan las caractericas comunes de un grupo de objetos.
+¿Qué es un ejemplar, instancia u objeto de clase?
+Ejemplar perteneciente a una clase
+¿Qué es la modularización?
+Es normal que la hora de tener una aplicación compleja esta se encuentre formada por varias clases, pueden
+ser 3,10 etc.
+Ejemplo:
+clase 1--->
+            clase 2---->
+                          clase 3
+VENTAJAS:
+- Cada uno de estos elementos o modulos funcionan de modo independiente.
+- Permite reutilizar trozos de codigo de un programa en otro.
+- Si una de las clases no llega a funcionar el programa aún asi va a seguir funcionando.
+
+¿Qué es la encapsulación?
+La encapsulación hace que el funcionamiento de un objeto sea exclusivo del mismo.
+La clase 1 no sabe nada del funcionamiento de la clase 2 sin enbargo todas estan conectadas para que funcionen 
+como equipo.
+
+¿Qué son los metodos de acceso?
+La forma en la que se conectan las diferentes clases son atravez de estos metodos de acceso.
+Con los metodos tu consigues conectar una clase con otra para que logren funcionar como una unidad o un equipo.
+Pero estos metodos de acceso van a tener acceso solo ciertas caractericas de cada una de las clases.
+
+                                        OBJETO
+objeto:
+accediendo a sus propiendades desde codigo (Pseudocodigo)
+miCoche.color = 'rojo'
+miCoche.peso = 1500 
+miCoche.ancho = 2000
+miCoche.alto = 900
+
+Accediendo al comportamiento del objeto desde código (Pseudocodigo)
+miCoche.arranca()
+miCoche.frena()
+miCoche.gira()
+miCoche.acelera()

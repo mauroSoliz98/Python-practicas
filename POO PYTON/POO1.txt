@@ -1,0 +1,57 @@
+#                                       PROGRAMCIÓN ORIENTADA A OBJETOS
+
+Paradigmas de programción
+Existen dos grande ramas de los paradigmas de programación los cuales son:
+- Programación orientada a procedimientos
+- Programación orientada a objetos
+
+PROGAMACIÓN ORIENTADA A PROCEDIMIENTOS
+Se puede decir que los leguajes de programación orientados a procedimientos son los lenguajes antiguos, son 
+aquellos que surgieron en la decada de los 60's, 70's; y algunos de ellos se sigue utilizando hoy en día.
+Algumnos de ellos son: Fortran, Cobol, Basic(no es visual basic).
+DESVENTAJAS:
+- Unidades de codigo muy grandes en aplicaciones muy complejas
+- En aplicaciones complejas el codigo resulta dificil de decifrar
+- Poco reutilizable
+- Si existe fallo en alguna linea del codigo, es muy probable que el programa caiga
+- Aparición frecuente de codigo espagueti
+- Dificil de depurar para otros programadores en caso de necesidad o error
+
+PROGRAMACIÓN ORIENTADA A OBJETOS
+Se puede decir que los leguajes de programación orientados a objetos son los leguajes de programación modernos
+¿En que cosiste la programación orientada a objetos?
+Trasladar el comportamiento de los objetos de la vida real al codigo de programación
+¿Cual es la naturaleza de un objeto de la vida real?
+Los objetos tienen un estado, un comportamiento y sus propiedades
+Por ejemplo un Coche
+- ¿Cual es el estado de un coche? Un coche puede estar parada, circulando o aparcado, etc
+- ¿Qué propiedades tiene un coche? Un coche tiene color, peso y tamaño
+- ¿Qué comportamiento tiene un coche? Un coche puede arrancar, frenar o acelerar
+OBJETO
+- Tiene propiedades(atributos)
+# Color 
+# Peso 
+# Alto 
+# Largo
+- Tiene un comportamiento(¿Qué es capaz de hacer?)
+# Arrancar
+# Frenar
+# Girar
+# Acelerar
+¿Qué lenguajes de programación son orientados a objetos?
+C++, Java, Visual.NET, etc
+VENTAJAS
+- Programas divididos en trozos, partes o clases
+- Modularización
+- Muy reutilizable. Herencia
+- Si existe algun fallo en alguna linea de programación, el programa continuará con su funcionamiento.
+Tratamiento de excepciones.
+- Encapsulamiento
+                                                VOCABULARIO DE POO 
+- Clase 
+- Objeto 
+- Ejemplar de clase. Intancia de clase. Ejemplarizar una clase. Instanciar una clase
+- Modularización
+- Encapsulamiento/encapsulación
+- Herencia
+- Polimorfismo

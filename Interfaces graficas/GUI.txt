@@ -1,0 +1,8 @@
+Tambien denominadas GUI,son intermediarias entre el programa y el usuario formadas por un conjuento de graficos
+como ventanas, botones, menús, casillas de verificación, etc.
+
+LIBRERIAS CON LAS QUE SE PUEDE TRABAJAR PARA CREAR UN GUI:
+- Tkinter
+- WxPython
+- PyQT
+- PyGTK
